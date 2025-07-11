@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Dave's blog
 ---
-
-This is the first page.
