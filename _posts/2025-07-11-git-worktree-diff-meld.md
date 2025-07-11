@@ -37,8 +37,10 @@ Using `git config set --worktree` to set the external diff
 configuration hit a snag, as the documentation says to create a
 section like this:
 
-    [diff "jcdiff"]
-            command = j-c-diff
+{% highlight conf %}
+[diff "jcdiff"]
+        command = j-c-diff
+{% endhighlight %}
 
 I tried to run `git config set --worktree 'diff "meld"'.command /usr/bin/meld`, but `git` didn't like it. I eventually gave up
 and put it in the config file by hand. But first, I had to figure out
