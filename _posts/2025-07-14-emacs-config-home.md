@@ -64,7 +64,7 @@ the hardcoded paths, so I might as well then use
 
 When you customize variables, Emacs updates a section that begins with
 
-{% highlight emacs-lisp(custom-set-variables %}
+{% highlight emacs-lisp %}
 ;; custom-set-variables was added by Custom.
 ;; If you edit it by hand, you could mess it up, so be careful.
 ;; Your init file should contain only one such instance.
