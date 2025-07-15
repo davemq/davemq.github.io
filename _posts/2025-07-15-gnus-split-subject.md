@@ -176,6 +176,9 @@ I also defined `gnus-user-format-function-s` and
 `gnus-user-format-function-t` in the :init section of
 `use-package gnus`.
 
+
+# Follow up
+
 On Mastodon, [Omar Antolin pointed out](https://mathstodon.xyz/@oantolin/114859291434942088) I could use `let*`
 rather than `let`, and then use `subject`
 when assigning `cb`. I've done that. It works, is more
