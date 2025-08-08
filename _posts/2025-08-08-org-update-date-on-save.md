@@ -1,6 +1,6 @@
 ---
 title: "Update #+date automatically when saving Org document"
-date: 
+date: 2025-08-08
 layout: post
 categories: 
 tags: 
