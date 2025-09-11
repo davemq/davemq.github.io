@@ -1,5 +1,5 @@
 ---
-title: "An obscure Emacs packages: decide"
+title: "An obscure Emacs package: decide"
 date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2025-09-10 Wed&gt;</span></span>
 layout: post
 categories: 
