@@ -104,7 +104,8 @@ hangman-regexp.py -x q '_ _ _ / _ _ _ _ _ _ _ / _ _ / _ _ _ / _ _ _ _ _ _ / _ _ 
 
     \<[abcdefghijklmnoprstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{7\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{2\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{6\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{4\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnoprstuvwxyz]\{10\}\>
 
-\## Running a game: make-hangman-phrase.py
+
+## Running a game: make-hangman-phrase.py
 
 On the other end of this game is the game runner. They think up the
 phrase and run the rounds. I thought it would be nice to have a tool
