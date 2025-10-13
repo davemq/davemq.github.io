@@ -82,9 +82,6 @@ which provides this output:
 
     \<[abcdefghijklmnopqrstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{7\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{2\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{6\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{4\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{3\}\>[[:space:]]\+\<[abcdefghijklmnopqrstuvwxyz]\{10\}\>
 
-(It might be nicer to use '$$\[:alpha:$$\\]' here rather than the full
-alphabet.)
-
 For the second example, where we've successfully guessed 'E', here's
 the command and the output:
 
