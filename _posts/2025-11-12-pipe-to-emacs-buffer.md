@@ -87,7 +87,7 @@ Looking at our buffer list, I see who.txt:
 
     * who.txt                                78 Fundamental      
 
-Going to who.txt, I see
+Going to the who.txt buffer, I see
 
     davemarq seat0        2025-11-11 09:44
     davemarq tty2         2025-11-11 09:44
