@@ -9,10 +9,6 @@ tags:
 - git
 ---
 
-
-# Table of Contents
-
-
 I've been working on a patch series for the Linux kernel. I had
 consolidated my changes into four patches, with a few more to go,
 when it dawned on me that I should review these patches myself before
