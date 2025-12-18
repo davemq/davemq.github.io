@@ -20,3 +20,10 @@ The AVATAR validator doesn't understand hashed Gravatar URLs that
 don't end in jpeg, jpg or png. Since I've had a Gravatar avatar set up
 for a long time, I'd like to use it. I suppose this post will be a
 test of how it looks, despite the validator complaining.
+
+Okay, now that I've seen the post, I think I can ignore this
+complaint. The Gravatar avatar renders just fine. I'll think about
+submitting a change request for this code to recognize that
+gravatar.com URLs don't play by these rules. It would also be nice to
+have the validator be more granular, e.g. I want it to validate
+everything /except/ the AVATAR.
