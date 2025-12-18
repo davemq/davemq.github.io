@@ -1,0 +1,5 @@
+#+TITLE: Dave's journal on Org Social
+#+NICK: davemq
+#+DESCRIPTION: I'm a long time Emacs and Org user. I like trail running, geocaching, computer programming and more!
+#+AVATAR: https://gravatar.com/davemq
+#+LINK: https://davemq.github.io
