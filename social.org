@@ -6,3 +6,17 @@
 #+FOLLOW: https://sachachua.com/social.org
 
 * Posts
+** 
+:PROPERTIES:
+:ID: 2025-12-18T11:29:32-0600
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+I'm trying to get Org Social set up, finally.
+
+The AVATAR validator doesn't understand hashed Gravatar URLs that
+don't end in jpeg, jpg or png. Since I've had a Gravatar avatar set up
+for a long time, I'd like to use it. I suppose this post will be a
+test of how it looks, despite the validator complaining.
