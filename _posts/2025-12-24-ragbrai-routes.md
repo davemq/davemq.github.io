@@ -194,7 +194,7 @@ def make_graph():
 
 Here's the graph based on the 52 existing routes.
 
-[[images/ragbrai.gv.png][RAGBRAI routes graph]
+[[/images/ragbrai.gv.png][RAGBRAI routes graph]
 
 
 ## Do the work!
