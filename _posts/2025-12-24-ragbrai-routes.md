@@ -192,6 +192,10 @@ def make_graph():
     dot.render(view=True)
 {% endhighlight %}
 
+Here's the graph based on the 52 existing routes.
+
+[[images/ragbrai.gv.png][RAGBRAI routes graph]
+
 
 ## Do the work!
 
@@ -207,6 +211,18 @@ results are pretty consistent, with a route from Sioux City to Clinton
 getting a bit over 10000 hits, i.e. about 1% of the possibilities.
 It's also fun to look at the bottom of the list for those "1 in a
 million" routes.
+
+Here's the first fiew lines of typical output:
+
+    Opening in existing browser session.
+    Created 7230 unique routes
+    ('Sioux City', 'Storm Lake', 'Fort Dodge', 'Iowa Falls', 'Vinton', 'Mount Vernon', 'Maquoketa', 'Clinton') 10433
+    ('Glenwood', 'Shenandoah', 'Creston', 'Adel', 'Pella', 'Ottumwa', 'Mount Pleasant', 'Burlington') 6969
+    ('Rock Rapids', 'Spencer', 'Algona', 'Clear Lake', 'New Hampton', 'Decorah', 'Manchester', 'Dubuque') 6153
+    ('Glenwood', 'Shenandoah', 'Creston', 'Adel', 'Pella', 'Ottumwa', 'Washington', 'Muscatine') 5483
+    ('Glenwood', 'Shenandoah', 'Creston', 'Adel', 'Pella', 'Ottumwa', 'Mount Pleasant', 'Fort Madison') 5261
+
+And here's the final bits of code.
 
 {% highlight python %}
 parse()
