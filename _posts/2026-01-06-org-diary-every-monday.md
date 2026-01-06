@@ -8,10 +8,6 @@ tags:
 - org
 ---
 
-
-# Table of Contents
-
-
 With the beginning of the new year, I received meeting invitations for
 a twice weekly meeting, on Mondays and Thursdays. I added this to my
 Org agenda file, and used a diary-style expression. I *thought* I
