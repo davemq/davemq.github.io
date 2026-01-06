@@ -16,8 +16,8 @@ every Thursday, like this
 
 {% highlight org %}
 * Recurring meeting
-<%%(diary-float t 1 0> 11:30-12:00>
-<%%(diary-float t 4 0> 11:30-12:00>
+<%%(diary-float t 1 0) 11:30-12:00>
+<%%(diary-float t 4 0) 11:30-12:00>
 {% endhighlight %}
 
 But when I looked my agenda, I didn't see anything for Mondays or
