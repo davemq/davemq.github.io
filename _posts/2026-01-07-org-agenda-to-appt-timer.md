@@ -4,6 +4,8 @@ date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-01-07 Wed
 layout: post
 categories: 
 tags: 
+- emacs 
+- org
 ---
 
 Among many other things, Emacs' Org mode manages tasks and allows you
