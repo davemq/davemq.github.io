@@ -1,5 +1,5 @@
 ---
-title: "org-agenda-to-appt-timer"
+title: "Keeping appointments from my Org agenda updated"
 date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-01-07 Wed&gt;</span></span>
 layout: post
 categories: 
