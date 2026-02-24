@@ -67,7 +67,7 @@ syntax to get this working. I wanted to calculate $7 as 100 times the
 value of @0$6, the current row's sum of miles ridden, divided by the
 value of the previous row's sum of planned miles. It's easy enough to
 just do something like `$7=100*@0$6/@-1$6`, but the values on
-the planned rides rows were 100 timnes the planned miles for that week
+the planned rides rows were 100 times the planned miles for that week
 divided by the actual miles for the previous week, which is usually
 some number over 100. And not that interesting to me.
 
