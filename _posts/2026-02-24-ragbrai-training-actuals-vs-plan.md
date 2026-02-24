@@ -64,7 +64,7 @@ I had difficulty getting the formula for column 7 working how I wanted
 it. Org tables can do formulas using Calc syntax, which is what I used
 for column 6, or using Emacs Lisp forms as formulas. I used Calc
 syntax to get this working. I wanted to calculate $7 as 100 times the
-value of @0$6, the curent row's sum of miles ridden, divided by the
+value of @0$6, the current row's sum of miles ridden, divided by the
 value of the previous row's sum of planned miles. It's easy enough to
 just do something like `$7=100*@0$6/@-1$6`, but the values on
 the planned rides rows were 100 timnes the planned miles for that week
