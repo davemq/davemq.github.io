@@ -86,7 +86,7 @@ haven't pushed myself to try it.
 
 -   untar the tarball in / (as root)
 -   run `dracut` to create an init ramdisk
--   optionally remove out older kernels and modules
+-   optionally remove older kernels and modules
 -   run `grub2-mkconfig` to add the new kernel to the GRUB menu
 -   copy the new grub config file to the right place
 -   reboot
