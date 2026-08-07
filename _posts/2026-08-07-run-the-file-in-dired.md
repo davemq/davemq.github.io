@@ -26,8 +26,9 @@ Dired, but since the directory isn't in the path, it told me
 
     /bin/bash: line 1: hello_cargo: command not found
 
-Okay, update **PATH** before running `command`: `! PATH`.:$PATH
-command=. This actually works, but decades of training give me a
+Okay, update **PATH** before running `command`:
+`! PATH=.:$PATH command`. This actually works, but decades of
+training give me a
 queasy feeling about adding `.` to **PATH**. How about $PWD instead?
 `! PATH=$PWD:$PATH command`. Yep, that works too.
 
