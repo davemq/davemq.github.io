@@ -9,10 +9,6 @@ tags:
 - bash
 ---
 
-
-# Table of Contents
-
-
 I started going through the
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) to learn rust. I'm using the *rustic*
 package to edit files, run `cargo`, etc.
